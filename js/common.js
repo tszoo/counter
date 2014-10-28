@@ -1,3 +1,5 @@
+/*2014.10.28 zt count animate test ver*/
+
 $(document).ready(function() {
     "use strict";
     var rndNum1 = Math.floor((Math.random() * 9) + 1);
