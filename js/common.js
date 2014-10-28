@@ -1,4 +1,9 @@
-/*2014.10.28 zt count animate test ver*/
+/*
+ * count animate test ver
+ *
+ * Copyright 2014, zt
+ * Released under the MIT License
+*/
 
 $(document).ready(function() {
     "use strict";
